@@ -2,7 +2,7 @@ I am Shimo
 Working with Git
 I learn how to push from github to vscode
 now checking editing in github and pulling it from githum to vs
-
+I live in finland since 2010
 
 Git init
 git add
