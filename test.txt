@@ -1,0 +1,6 @@
+I am Shimo
+Working with Git
+Git init
+git add
+git status
+git commit -m
